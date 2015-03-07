@@ -160,12 +160,27 @@ font-size: 3em;
 .menu p {
 
 	text-align: center;
-	
-
 
 
 }
 
+footer a { color: #a1a9b0; 
+
+}
+
+
+footer { 
+	padding: 40px 0 30px; 
+
+
+}
+
+
+
+footer p { color: maroon;
+
+
+ }
 
 
 
