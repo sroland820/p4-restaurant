@@ -131,7 +131,6 @@ font-size: 25px;
 font-family: sans-serif;
 text-decoration: none;
 list-style-type: none;
-float: auto;
 
 }
 
@@ -158,11 +157,10 @@ font-size: 3em;
 }
 
 
-/*p {
+.menu p {
 
 	text-align: center;
-	font-style: italic;
-	wi
+	
 
 
 
