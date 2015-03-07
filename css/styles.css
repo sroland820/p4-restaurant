@@ -17,7 +17,7 @@
 body{
 font-family: sans-serif;
 background-image: url('../img/silver_scales.png');
-
+font: helvetica;
 
 }
 
@@ -94,7 +94,9 @@ font-size: 3em;
 
 
 .pricing {
-	
+	text-align: center;
+	float: center;
+	padding: auto;
 
 }
 
@@ -155,6 +157,16 @@ font-size: 3em;
 
 }
 
+
+/*p {
+
+	text-align: center;
+	font-style: italic;
+	wi
+
+
+
+}
 
 
 
